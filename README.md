@@ -1,6 +1,4 @@
-# MIS 311: Introduction to Business Analytics
-
-## Assignment 1: Personal Portfolio Site
+# Assignment 1: Personal Portfolio Site
 
 Name: Nguyen Do Xuan Ai
 
